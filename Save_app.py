@@ -6,6 +6,8 @@ import sys
 
 import os
 
+import fix_qt_import_error
+
 from PyQt5.QtWidgets import *
 from PyQt5 import QtGui
 
