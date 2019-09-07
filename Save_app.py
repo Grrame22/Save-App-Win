@@ -2,6 +2,9 @@
 
 # pip install pyinstaller
 
+# for install the rar of this app, check this link:
+# https://drive.google.com/open?id=1ujNKUQpgcBrhtLKpv9dUwOLcZaOpn1At
+
 import sys
 
 import os
