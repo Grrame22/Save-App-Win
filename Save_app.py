@@ -1,3 +1,7 @@
+# pip install PyQt5
+
+# pip install pyinstaller
+
 import sys
 
 import os
